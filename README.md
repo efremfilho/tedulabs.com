@@ -13,6 +13,7 @@ Static site, no build step.
 - `styles.css` — shared styles
 - `logo.svg` — text-only logo, with "edu" highlighted
 - `logo-dark.svg` — logo variant for dark backgrounds
+- `logo.png` / `logo-dark.png` — transparent-background PNG exports (1900×720)
 - `favicon.svg` — favicon (the letter "t")
 - `CNAME` — custom domain for GitHub Pages
 
