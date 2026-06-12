@@ -1,15 +1,19 @@
 # tedulabs.com
 
-Institutional site for **Tedu Labs** — technology consulting, GenAI and AI-agent building; trainings, talks and inceptions.
+Institutional site for **tedulabs** — technology consulting, GenAI and AI-agent building; trainings, talks and inceptions.
+
+Brand: **t** (technology) + **edu** (education) + **labs** (experiments).
 
 Static site, no build step.
 
 ## Structure
 
 - `index.html` — English version (root)
-- `pt/index.html` — Portuguese version (`/pt/`)
+- `pt-br/index.html` — Brazilian Portuguese version (`/pt-br/`)
 - `styles.css` — shared styles
-- `favicon.svg` — favicon
+- `logo.svg` — logo (lab flask wearing a graduation cap + wordmark)
+- `logo-dark.svg` — logo variant for dark backgrounds
+- `favicon.svg` — favicon (logo mark)
 - `CNAME` — custom domain for GitHub Pages
 
 ## Preview locally
