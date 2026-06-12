@@ -11,9 +11,9 @@ Static site, no build step.
 - `index.html` — English version (root)
 - `pt-br/index.html` — Brazilian Portuguese version (`/pt-br/`)
 - `styles.css` — shared styles
-- `logo.svg` — logo (lab flask wearing a graduation cap + wordmark)
+- `logo.svg` — text-only logo, with "edu" highlighted
 - `logo-dark.svg` — logo variant for dark backgrounds
-- `favicon.svg` — favicon (logo mark)
+- `favicon.svg` — favicon (the letter "t")
 - `CNAME` — custom domain for GitHub Pages
 
 ## Preview locally

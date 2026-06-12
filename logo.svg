@@ -1,17 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 72" role="img" aria-label="tedulabs">
-  <!-- mark: lab flask wearing a graduation cap -->
-  <g transform="translate(2 4)">
-    <path d="M32 4 52 12 32 20 12 12Z" fill="#1d2b4f"/>
-    <path d="M52 13v8" stroke="#1d2b4f" stroke-width="2.6" stroke-linecap="round" fill="none"/>
-    <circle cx="52" cy="24.5" r="2.7" fill="#f6a51c"/>
-    <path d="M28.5 16v12L19.2 46.6A6.6 6.6 0 0 0 25.2 56h13.6a6.6 6.6 0 0 0 6-9.4L35.5 28V16z" fill="#0f8f63"/>
-    <circle cx="29" cy="46" r="2.3" fill="#faf6ec"/>
-    <circle cx="35.2" cy="40" r="1.7" fill="#faf6ec"/>
-    <circle cx="32.4" cy="50.6" r="1.5" fill="#faf6ec"/>
-  </g>
-  <!-- wordmark: t (technology) · edu (education, highlighted) · labs (experiments) -->
-  <rect x="96" y="19" width="72" height="42" rx="8" fill="#fcd462"/>
-  <text x="82" y="53" font-family="Georgia, 'Times New Roman', serif" font-weight="600" font-size="44" fill="#1e51c7" textLength="15">t</text>
-  <text x="100" y="53" font-family="Georgia, 'Times New Roman', serif" font-weight="600" font-size="44" fill="#1d2b4f" textLength="64">edu</text>
-  <text x="172" y="53" font-family="Georgia, 'Times New Roman', serif" font-weight="600" font-style="italic" font-size="44" fill="#0b6b4a" textLength="74">labs</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 72" role="img" aria-label="tedulabs">
+  <!-- wordmark: tedulabs, with "edu" highlighted -->
+  <rect x="26" y="19" width="72" height="42" rx="8" fill="#fcd462"/>
+  <text x="12" y="53" font-family="Georgia, 'Times New Roman', serif" font-weight="600" font-size="44" fill="#1d2b4f" textLength="15">t</text>
+  <text x="30" y="53" font-family="Georgia, 'Times New Roman', serif" font-weight="600" font-size="44" fill="#1d2b4f" textLength="64">edu</text>
+  <text x="102" y="53" font-family="Georgia, 'Times New Roman', serif" font-weight="600" font-size="44" fill="#1d2b4f" textLength="76">labs</text>
 </svg>

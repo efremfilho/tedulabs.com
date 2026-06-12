@@ -131,7 +131,6 @@ h1 em, h2 em {
 .wordmark {
   display: inline-flex;
   align-items: center;
-  gap: 0.55rem;
   font-family: var(--serif);
   font-size: 1.32rem;
   font-weight: 600;
@@ -140,21 +139,11 @@ h1 em, h2 em {
   white-space: nowrap;
 }
 
-.wordmark .mark { width: 30px; height: 30px; flex: none; }
-
-.wm-t { color: var(--blue-down); }
-
 .wm-edu {
   color: var(--ink);
   background: var(--amber-soft);
   border-radius: 0.25em;
   padding: 0 0.07em;
-}
-
-.wm-labs {
-  color: var(--green-down);
-  font-style: italic;
-  font-weight: 500;
 }
 
 .site-nav {
